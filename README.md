@@ -1,10 +1,11 @@
 
-![Imagem Java](https://user-images.githubusercontent.com/75958253/163387373-dad495b8-facb-4395-962a-cea8498df030.png)
+<div align="center">
+<img align="center" alt="Povoa-java" height="250" width="250" src="https://user-images.githubusercontent.com/75958253/180897910-4478b8d8-051b-46ba-b5e8-0a55f0315a0a.svg">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/DevPovoa?style=social)
-
+</div>
 
 # Sumário :bookmark_tabs:
 ### Códigos em Java :coffee: 
